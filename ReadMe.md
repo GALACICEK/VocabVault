@@ -37,3 +37,5 @@ For El Espanol-El Turco El Diccionario
 3. **Save and Load Words:** Implement the feature for users to save their added words to a file and load them later, enhancing the persistence of their vocabulary data.
 
 ---
+### Requirements:
+- 'pip install pandas' 
